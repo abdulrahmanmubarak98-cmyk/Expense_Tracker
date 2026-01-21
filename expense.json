@@ -1,0 +1,57 @@
+[
+    {
+        "amount": 200,
+        "category": "food",
+        "note": "lunch"
+    },
+    {
+        "amount": 500,
+        "category": "travelling",
+        "note": "abuja"
+    },
+    {
+        "amount": 300.0,
+        "category": "books",
+        "note": "reading"
+    },
+    {
+        "amount": 300,
+        "category": "traveling",
+        "note": "lagos"
+    },
+    {
+        "amount": 700,
+        "category": "transport",
+        "note": "lectures"
+    },
+    {
+        "amount": 350,
+        "category": "learning",
+        "note": "tutorial"
+    },
+    {
+        "amount": 900,
+        "category": "transport",
+        "note": "school"
+    },
+    {
+        "amount": 700,
+        "category": "work",
+        "note": "food"
+    },
+    {
+        "amount": 500,
+        "category": "food",
+        "note": "dinner"
+    },
+    {
+        "amount": 1000,
+        "category": "travelling",
+        "note": "home"
+    },
+    {
+        "amount": 5000,
+        "category": "food",
+        "note": "dinner"
+    }
+]
