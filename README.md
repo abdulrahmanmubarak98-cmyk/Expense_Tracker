@@ -39,7 +39,7 @@ https:// https://github.com/abdulrahmanmubarak98-cmyk/Expense_Tracker.git
 - GUI version
 
 # Contributing
-contributions, suggestions and improvements are welcome! Feel free tp fork this repository and submit a pull requests.
+contributions, suggestions and improvements are welcome! Feel free to fork this repository and submit a pull requests.
 
  AUTHOR
  Mubarak-Adogu

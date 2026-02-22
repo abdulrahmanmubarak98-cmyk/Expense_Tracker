@@ -53,5 +53,10 @@
         "amount": 5000,
         "category": "food",
         "note": "dinner"
+    },
+    {
+        "amount": 8000.0,
+        "category": "dinner",
+        "note": "food"
     }
 ]
